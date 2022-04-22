@@ -1,0 +1,6 @@
+linux-*/
+*.bin
+busybox-*/
+bbram/
+goram/
+*.gz
